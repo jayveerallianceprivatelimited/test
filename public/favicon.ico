@@ -1,0 +1,11 @@
+This is a placeholder for the favicon.ico file.
+
+In a real project, you would replace this text file with an actual favicon image in ICO format.
+
+To create a proper favicon:
+1. Design a square icon (typically 16x16, 32x32, or 64x64 pixels)
+2. Convert it to .ico format using an online converter like favicon.io or realfavicongenerator.net
+3. Replace this placeholder file with your actual favicon.ico file
+4. For optimal browser support, consider creating multiple sizes and formats
+
+For this dashboard project, consider using an icon that matches your brand or the dashboard's theme.
