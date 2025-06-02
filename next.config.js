@@ -16,10 +16,6 @@ const nextConfig = {
   },
   // Ensure compatibility with various static hosting providers
   basePath: '',
-  // Disable certain features not needed for static sites
-  experimental: {
-    serverActions: false,
-  },
 };
 
 module.exports = nextConfig;
